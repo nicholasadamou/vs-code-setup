@@ -1,0 +1,21 @@
+{
+    "extensions": [
+        "EditorConfig.EditorConfig",
+        "JerryHong.autofilename",
+        "TeddyDD.fish",
+        "chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme",
+        "chmln.better-whitespace",
+        "christian-kohler.npm-intellisense",
+        "dkundel.vscode-new-file",
+        "donjayamanne.python",
+        "eg2.vscode-npm-script",
+        "golf1052.code-sync",
+        "mrmlnc.vscode-autoprefixer",
+        "msjsdiag.debugger-for-chrome",
+        "redhat.java",
+        "robertohuertasm.vscode-icons",
+        "shaharkazaz.git-merger",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-pack"
+    ]
+}
