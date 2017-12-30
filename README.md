@@ -2,10 +2,6 @@
 
 ![vscode](vs_code.png)
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/9xfHBCXLLneQfkK8qiHeHcLd/nicholasadamou/vs-code-setup'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/9xfHBCXLLneQfkK8qiHeHcLd/nicholasadamou/vs-code-setup.svg' />
-</a>
-
 This document describes how I set up my text editor that I use to develop the tools on my Github page.
 
 If you have any comments or suggestions, feel free to give me a shout [on Twitter](https://twitter.com/nicholasadamou)!
