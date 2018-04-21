@@ -25,6 +25,10 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [Better Whitespace](https://marketplace.visualstudio.com/items?itemName=chmln.better-whitespace) - Sublime-like tab and space rendering on selection for VSCode. Shows whitespace in selection, with custom rendering for tabs (currently VSCode has unexpressive arrows.)
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code in the Chrome browser.
 - [AutoFileName](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename) - Auto complete file names.
+- [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright) - A multilingual, offline and «lightweight» spellchecker.
+- [emojisense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) - Directly insert emojis or type emoji codes in your files.
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
+
 
 ## Language Specific Packages
 
@@ -40,6 +44,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - npm support for VS Code.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
+- [cndjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs) - Search and embed libraries from cdnjs.com in Visual Studio Code.
 
 ## Version Control
 

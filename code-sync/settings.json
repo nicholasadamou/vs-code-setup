@@ -1,10 +1,13 @@
 {
     "editor.fontFamily": "Operator Mono Light, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 18,
     "workbench.colorTheme": "Tomorrow Night Operator Mono",
     "workbench.iconTheme": "vscode-icons",
     "window.restoreWindows": "none",
     "git.enableSmartCommit": true,
     "workbench.startupEditor": "none",
     "git.confirmSync": false,
-    "vsicons.dontShowNewVersionMessage": true
+    "vsicons.dontShowNewVersionMessage": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false
 }
