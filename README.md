@@ -16,7 +16,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 ## Getting Started
 
 - [Visual Studio Code](https://code.visualstudio.com/) - the best text editor for me. I've been using it for years. 
-- [Offical Documentation](https://code.visualstudio.com/docs)
+- [official Documentation](https://code.visualstudio.com/docs)
 
 ## Tools (Better Visual Studio Code) 
 
@@ -28,6 +28,8 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright) - A multilingual, offline and «lightweight» spellchecker.
 - [emojisense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) - Directly insert emojis or type emoji codes in your files.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use. 
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
 
 
 ## Language Specific Packages
@@ -37,6 +39,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 #### Essentials
 
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Parse CSS and add vendor prefixes automatically.
+- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - A Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the definitions found in your workspace or external files referenced through the link element.
 
 ### Javascript
 
@@ -48,6 +51,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ## Version Control
 
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 - [GitMerger](https://marketplace.visualstudio.com/items?itemName=shaharkazaz.git-merger) - Simplifies the git merge process.
 
 ## UI 
@@ -55,6 +59,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 ### Fonts
 
 - [Operator Mono](https://www.typography.com/fonts/operator/styles/) - The $200 holy-grail of fonts for developers.
+- [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts) - Snippets for a variety of icon fonts.
 
 ### Themes
 
@@ -62,4 +67,6 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ### Misc.
 
-- [vscode icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code
+- [vscode icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code.
+- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
+- [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - An extension to use shellcheck in vscode.

@@ -1,8 +1,13 @@
 {
     "extensions": [
         "EditorConfig.EditorConfig",
+        "JakeWilson.vscode-cdnjs",
         "JerryHong.autofilename",
         "TeddyDD.fish",
+        "alefragnani.Bookmarks",
+        "ban.spellright",
+        "bierner.color-info",
+        "bierner.emojisense",
         "chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme",
         "chmln.better-whitespace",
         "christian-kohler.npm-intellisense",
