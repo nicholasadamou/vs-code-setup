@@ -30,7 +30,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use. 
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
-
+- [Search Docsets](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode) - Search docsets in Dash, Velocity, or Zeal - offline documentation and docset viewers.
 
 ## Language Specific Packages
 
