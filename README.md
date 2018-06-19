@@ -15,10 +15,10 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ## Getting Started
 
-- [Visual Studio Code](https://code.visualstudio.com/) - the best text editor for me. I've been using it for years. 
+- [Visual Studio Code](https://code.visualstudio.com/) - the best text editor for me. I've been using it for years.
 - [official Documentation](https://code.visualstudio.com/docs)
 
-## Tools (Better Visual Studio Code) 
+## Tools (Better Visual Studio Code)
 
 - [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile) - This plugin allows for faster file creation within a project.
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - [EditorConfig](http://editorconfig.org/) helps developers maintain consistent coding styles between different editors
@@ -27,10 +27,12 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [AutoFileName](https://marketplace.visualstudio.com/items?itemName=JerryHong.autofilename) - Auto complete file names.
 - [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright) - A multilingual, offline and «lightweight» spellchecker.
 - [emojisense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) - Directly insert emojis or type emoji codes in your files.
+- [Emoji](https://marketplace.visualstudio.com/items?itemName=Perkovec.emoji) - Plugin to insert emoji from the command palette.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use. 
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
 - [Search Docsets](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode) - Search docsets in Dash, Velocity, or Zeal - offline documentation and docset viewers.
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
 
 ## Language Specific Packages
 
@@ -48,25 +50,38 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - npm support for VS Code.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
 - [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs) - Search and embed libraries from cdnjs.com in Visual Studio Code.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
+- [jslint](https://marketplace.visualstudio.com/items?itemName=ajhyndman.jslint) - Integrates JSLint into VS Code.
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code.
+- [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) - Integrates JSHint into VS Code. JSHint is a linter for JavaScript.
+- [.jshintrc Generator](https://marketplace.visualstudio.com/items?itemName=benjavr.jshintrc-generator) - Generates the default .jshintrc file in project root.
+
+#### Snippets
+
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
 
 ## Version Control
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 - [GitMerger](https://marketplace.visualstudio.com/items?itemName=shaharkazaz.git-merger) - Simplifies the git merge process.
 
-## UI 
+## UI
 
 ### Fonts
 
 - [Operator Mono](https://www.typography.com/fonts/operator/styles/) - The $200 holy-grail of fonts for developers.
+- [Dank Mono](https://dank.sh/) - Dank Mono is the coding font you want.
 - [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts) - Snippets for a variety of icon fonts.
 
 ### Themes
 
-- [Tomorrow and Tomorrow Night Operator Mono Theme](https://marketplace.visualstudio.com/items?itemName=chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme) - Copies of the Tomorrow and Tomorrow Night themes with settings to mark certain items as italics and bold
+- [Tomorrow and Tomorrow Night Operator Mono Theme](https://marketplace.visualstudio.com/items?itemName=chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme) - Copies of the Tomorrow and Tomorrow Night themes with settings to mark certain items as italics and bold.
+- [Better Solarized Dark](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-better-solarized-dark-theme) - A Better Solarized Dark theme for Visual Studio Code.
 
 ### Misc.
 
 - [vscode icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code.
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 - [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - An extension to use shellcheck in vscode.
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
