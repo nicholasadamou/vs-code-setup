@@ -50,6 +50,10 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - npm support for VS Code.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
 - [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs) - Search and embed libraries from cdnjs.com in Visual Studio Code.
+- [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Code-hinting, debugging and integrated commands for React Native.
+
+#### Linters
+
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 - [jslint](https://marketplace.visualstudio.com/items?itemName=ajhyndman.jslint) - Integrates JSLint into VS Code.
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code.
@@ -59,6 +63,29 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 #### Snippets
 
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
+
+### Python
+
+#### Essentials
+
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
+
+
+#### Snippets
+
+- [python-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.python-snippets) - Python Snippets.
+
+### Powershell
+
+#### Essentials
+
+- [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Develop PowerShell scripts in Visual Studio Code!
+
+### Bash
+
+#### Essentials
+
+- [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - An extension to use shellcheck in vscode.
 
 ## Version Control
 
@@ -82,6 +109,5 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [vscode icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) - Icons for Visual Studio Code.
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) - Copy JSON, paste as Go, TypeScript, C#, C++ and more.
-- [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - An extension to use shellcheck in vscode.
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
