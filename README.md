@@ -70,7 +70,6 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
 
-
 #### Snippets
 
 - [python-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.python-snippets) - Python Snippets.
@@ -87,6 +86,12 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - An extension to use shellcheck in vscode.
 
+### VIML
+
+#### Essentials
+
+- [vscode-viml-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.viml) - Syntax highlighting for .vim files.
+
 ## Version Control
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
@@ -102,8 +107,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ### Themes
 
-- [Tomorrow and Tomorrow Night Operator Mono Theme](https://marketplace.visualstudio.com/items?itemName=chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme) - Copies of the Tomorrow and Tomorrow Night themes with settings to mark certain items as italics and bold.
-- [Better Solarized Dark](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-better-solarized-dark-theme) - A Better Solarized Dark theme for Visual Studio Code.
+- [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
 
 ### Misc.
 
