@@ -1,8 +1,5 @@
 {
     "extensions": [
-        "JerryHong.autofilename",
-        "Perkovec.emoji",
-        "Zignd.html-css-class-completion",
         "aaron-bond.better-comments",
         "ajhyndman.jslint",
         "arcticicestudio.nord-visual-studio-code",
@@ -25,11 +22,13 @@
         "golf1052.code-sync",
         "HookyQR.beautify",
         "idleberg.icon-fonts",
+        "JerryHong.autofilename",
         "mrmlnc.vscode-autoprefixer",
         "ms-python.python",
         "ms-vscode.PowerShell",
         "msjsdiag.debugger-for-chrome",
         "naumovs.color-highlight",
+        "Perkovec.emoji",
         "Prisma.vscode-graphql",
         "quicktype.quicktype",
         "robertohuertasm.vscode-icons",
@@ -39,6 +38,7 @@
         "teabyii.ayu",
         "timonwong.shellcheck",
         "vsmobile.vscode-react-native",
-        "wesbos.theme-cobalt2"
+        "wesbos.theme-cobalt2",
+        "Zignd.html-css-class-completion"
     ]
 }

@@ -59,8 +59,8 @@
         "javascript": "javascriptreact"
     },
     "react-native-storybooks.port": 7007,
-    "workbench.colorTheme": "Nord",
     "shellcheck.disableVersionCheck": true,
     "editor.renderIndentGuides": false,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "workbench.colorTheme": "Ayu Mirage"
 }
