@@ -20,6 +20,9 @@
     "html.format.enable": true,
     "html.format.preserveNewLines": true,
     "files.trimTrailingWhitespace": true,
+    "[pug]": {
+        "files.trimTrailingWhitespace": false
+    },
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 3,
     "editor.wordWrap": "on",
