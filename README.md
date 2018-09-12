@@ -33,6 +33,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A basic spell checker that works well with camelCase code.
 - [Search Docsets](https://marketplace.visualstudio.com/items?itemName=silverlakesoftware.searchdocsets-vscode) - Search docsets in Dash, Velocity, or Zeal - offline documentation and docset viewers.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more!
+- [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request Provider for GitHub.
 
 ## Language Specific Packages
 
@@ -107,7 +108,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ### Themes
 
-- [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) - An arctic, north-bluish clean and elegant Visual Studio Code theme.
+- [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
 
 ### Misc.
 
