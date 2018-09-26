@@ -65,5 +65,12 @@
     "shellcheck.disableVersionCheck": true,
     "editor.renderIndentGuides": false,
     "git.autofetch": true,
-    "workbench.colorTheme": "Ayu Mirage"
+    "workbench.colorTheme": "Ayu Mirage",
+    "github.hosts": [
+        {
+            "host": "https://github.com",
+            "username": "oauth",
+            "token": "system"
+        }
+    ]
 }

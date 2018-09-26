@@ -24,6 +24,7 @@
         "HookyQR.beautify",
         "idleberg.icon-fonts",
         "JerryHong.autofilename",
+        "mikestead.dotenv",
         "mrmlnc.vscode-autoprefixer",
         "ms-python.python",
         "ms-vscode.PowerShell",

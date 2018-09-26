@@ -52,6 +52,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Visual Studio Code plugin that autocompletes npm modules in import statements.
 - [cdnjs](https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-cdnjs) - Search and embed libraries from cdnjs.com in Visual Studio Code.
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Code-hinting, debugging and integrated commands for React Native.
+-[dotenv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax
 
 #### Linters
 
