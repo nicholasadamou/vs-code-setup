@@ -72,5 +72,6 @@
             "username": "oauth",
             "token": "system"
         }
-    ]
+    ],
+    "javascript.updateImportsOnFileMove.enabled": "always"
 }
