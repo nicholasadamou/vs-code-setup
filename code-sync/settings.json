@@ -61,7 +61,6 @@
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "react-native-storybooks.port": 7007,
     "shellcheck.disableVersionCheck": true,
     "editor.renderIndentGuides": false,
     "git.autofetch": true,
