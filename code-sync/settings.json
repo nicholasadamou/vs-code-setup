@@ -10,7 +10,7 @@
         "peekViewEditor.matchHighlightBackground": "#00212bAB"
     },
     "workbench.editor.tabCloseButton": "off",
-    "workbench.activityBar.visible": true,
+    "workbench.activityBar.visible": false,
     "workbench.sideBar.location": "left",
     "workbench.startupEditor": "none",
     "workbench.editor.tabSizing": "shrink",

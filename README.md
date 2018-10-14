@@ -72,6 +72,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 #### Snippets
 
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
+- [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) - Code snippets for Reactjs development in ES6 syntax.
 
 ### Python
 
