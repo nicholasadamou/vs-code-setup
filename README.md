@@ -59,6 +59,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Code-hinting, debugging and integrated commands for React Native.
 - [dotenv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [ventur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VS Code.
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) - Syntax highlighting for styled-components.
 
 #### Linters
 
