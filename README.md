@@ -62,6 +62,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 #### Linters
 
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for prettier/prettier.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 - [jslint](https://marketplace.visualstudio.com/items?itemName=ajhyndman.jslint) - Integrates JSLint into VS Code.
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code.
