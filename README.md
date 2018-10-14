@@ -39,6 +39,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent) - Paste code with "correct" indentation.
 - [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify) - Use Spotify inside vscode.
 - [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack) - Send messages and files to Slack from Visual Studio Code.
+- [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry) - Extend the power of multiple selections in VS Code. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.
 
 ## Language Specific Packages
 
@@ -48,6 +49,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Parse CSS and add vendor prefixes automatically.
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - A Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the definitions found in your workspace or external files referenced through the link element.
+- [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - Advanced autocompletion and refactoring support for SCSS.
 
 ### Javascript
 
@@ -60,20 +62,25 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [dotenv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [ventur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VS Code.
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) - Syntax highlighting for styled-components.
+- [jsrefactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor) - Automated refactoring tools to smooth your development workflow.
+- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
 
 #### Linters
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - VS Code plugin for prettier/prettier.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
-- [jslint](https://marketplace.visualstudio.com/items?itemName=ajhyndman.jslint) - Integrates JSLint into VS Code.
-- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code.
-- [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint) - Integrates JSHint into VS Code. JSHint is a linter for JavaScript.
-- [.jshintrc Generator](https://marketplace.visualstudio.com/items?itemName=benjavr.jshintrc-generator) - Generates the default .jshintrc file in project root.
 
 #### Snippets
 
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax.
 - [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets) - Code snippets for Reactjs development in ES6 syntax.
+
+### GraphQL
+
+#### Essentials
+
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
+- [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode) - GraphQL syntax highlighting, linting, auto-complete, and more!
 
 ### Python
 
