@@ -1,7 +1,6 @@
 {
     "extensions": [
         "aaron-bond.better-comments",
-        "arcticicestudio.nord-visual-studio-code",
         "christian-kohler.npm-intellisense",
         "cmstead.jsrefactor",
         "CoenraadS.bracket-pair-colorizer",
@@ -13,7 +12,6 @@
         "dunstontc.viml",
         "eamodio.gitlens",
         "EditorConfig.EditorConfig",
-        "eg2.tslint",
         "eg2.vscode-npm-script",
         "esbenp.prettier-vscode",
         "formulahendry.auto-close-tag",
