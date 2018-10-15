@@ -1,16 +1,12 @@
 {
     "extensions": [
         "aaron-bond.better-comments",
-        "ajhyndman.jslint",
         "arcticicestudio.nord-visual-studio-code",
-        "benjavr.jshintrc-generator",
-        "chiragpat.tomorrow-and-tomorrow-night-operator-mono-theme",
         "christian-kohler.npm-intellisense",
         "cmstead.jsrefactor",
         "CoenraadS.bracket-pair-colorizer",
         "cstrap.python-snippets",
         "DavidAnson.vscode-markdownlint",
-        "dbaeumer.jshint",
         "dbaeumer.vscode-eslint",
         "dkundel.vscode-new-file",
         "dsznajder.es7-react-js-snippets",
@@ -22,7 +18,6 @@
         "esbenp.prettier-vscode",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
-        "ginfuru.ginfuru-better-solarized-dark-theme",
         "GitHub.vscode-pull-request-github",
         "golf1052.code-sync",
         "HookyQR.beautify",
@@ -53,7 +48,6 @@
         "teabyii.ayu",
         "timonwong.shellcheck",
         "vsmobile.vscode-react-native",
-        "wesbos.theme-cobalt2",
         "xabikos.ReactSnippets",
         "Zignd.html-css-class-completion"
     ]
