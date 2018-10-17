@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "Operator Mono Light, Dank Mono, Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Operator Mono, Dank Mono, Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorCustomizations": {
@@ -65,12 +65,10 @@
     "editor.renderIndentGuides": false,
     "git.autofetch": true,
     "workbench.colorTheme": "Ayu Mirage",
-    "github.hosts": [
-        {
-            "host": "https://github.com",
-            "username": "oauth",
-            "token": "system"
-        }
-    ],
+    "github.hosts": [{
+        "host": "https://github.com",
+        "username": "oauth",
+        "token": "system"
+    }],
     "javascript.updateImportsOnFileMove.enabled": "always"
 }
