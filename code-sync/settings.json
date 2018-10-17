@@ -66,10 +66,12 @@
     "editor.renderIndentGuides": false,
     "git.autofetch": true,
     "workbench.colorTheme": "Ayu Mirage",
-    "github.hosts": [{
-        "host": "https://github.com",
-        "username": "oauth",
-        "token": "system"
-    }],
+    "github.hosts": [
+        {
+            "host": "https://github.com",
+            "username": "oauth",
+            "token": "system"
+        }
+    ],
     "javascript.updateImportsOnFileMove.enabled": "always"
 }
