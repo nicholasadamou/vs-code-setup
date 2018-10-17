@@ -58,6 +58,7 @@
     },
     "eslint.autoFixOnSave": true,
     "eslint.alwaysShowStatus": true,
+    "eslint.packageManager": "yarn",
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
