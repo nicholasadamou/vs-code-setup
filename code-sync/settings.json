@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "Operator Mono, Dank Mono, Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Operator Mono Light, Dank Mono, Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorCustomizations": {
@@ -10,7 +10,7 @@
         "peekViewEditor.matchHighlightBackground": "#00212bAB"
     },
     "workbench.editor.tabCloseButton": "off",
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "left",
     "workbench.startupEditor": "none",
     "workbench.editor.tabSizing": "shrink",
@@ -20,9 +20,6 @@
     "html.format.enable": true,
     "html.format.preserveNewLines": true,
     "files.trimTrailingWhitespace": true,
-    "[jade]": {
-        "files.trimTrailingWhitespace": false
-    },
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 3,
     "editor.wordWrap": "on",
@@ -58,14 +55,12 @@
     },
     "eslint.autoFixOnSave": true,
     "eslint.alwaysShowStatus": true,
-    "eslint.packageManager": "yarn",
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
-    "shellcheck.disableVersionCheck": true,
-    "editor.renderIndentGuides": false,
-    "git.autofetch": true,
+    "react-native-storybooks.port": 7007,
     "workbench.colorTheme": "Ayu Mirage",
+    "git.autofetch": true,
     "github.hosts": [
         {
             "host": "https://github.com",
@@ -73,5 +68,5 @@
             "token": "system"
         }
     ],
-    "javascript.updateImportsOnFileMove.enabled": "always"
+    "editor.renderIndentGuides": false
 }

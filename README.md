@@ -49,6 +49,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Parse CSS and add vendor prefixes automatically.
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - A Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the definitions found in your workspace or external files referenced through the link element.
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - Advanced autocompletion and refactoring support for SCSS.
+- [CSS Grid Snippets](https://marketplace.visualstudio.com/items?itemName=ohansemmanuel.css-grid-snippets) - Code snippets for the CSS Grid layout.
 
 ### Javascript
 
