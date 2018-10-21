@@ -1,7 +1,5 @@
 # Visual Studio Code Setup
 
-![vscode](vs_code.png)
-
 This document describes how I set up my text editor that I use to develop the tools on my Github page.
 
 If you have any comments or suggestions, feel free to give me a shout [on Twitter](https://twitter.com/nicholasadamou)!
@@ -44,8 +42,6 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ### HTML & CSS
 
-#### Essentials
-
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Parse CSS and add vendor prefixes automatically.
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - A Visual Studio Code extension that provides CSS class name completion for the HTML class attribute based on the definitions found in your workspace or external files referenced through the link element.
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss) - Advanced autocompletion and refactoring support for SCSS.
@@ -77,8 +73,6 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ### GraphQL
 
-#### Essentials
-
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
 - [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode) - GraphQL syntax highlighting, linting, auto-complete, and more!
 
@@ -94,19 +88,13 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ### Powershell
 
-#### Essentials
-
 - [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Develop PowerShell scripts in Visual Studio Code!
 
 ### Bash
 
-#### Essentials
-
 - [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - An extension to use shellcheck in vscode.
 
 ### VIML
-
-#### Essentials
 
 - [vscode-viml-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.viml) - Syntax highlighting for .vim files.
 
