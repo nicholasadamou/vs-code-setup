@@ -61,12 +61,12 @@
     "react-native-storybooks.port": 7007,
     "workbench.colorTheme": "Ayu Mirage",
     "git.autofetch": true,
-    "github.hosts": [
+    "editor.renderIndentGuides": false,
+    "githubPullRequests.hosts": [
         {
             "host": "https://github.com",
             "username": "oauth",
             "token": "system"
         }
-    ],
-    "editor.renderIndentGuides": false
+    ]
 }
