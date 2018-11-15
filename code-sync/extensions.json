@@ -1,7 +1,6 @@
 {
     "extensions": [
         "aaron-bond.better-comments",
-        "ajshort.latex-preview",
         "christian-kohler.npm-intellisense",
         "cmstead.jsrefactor",
         "CoenraadS.bracket-pair-colorizer",
@@ -21,7 +20,6 @@
         "golf1052.code-sync",
         "HookyQR.beautify",
         "idleberg.icon-fonts",
-        "James-Yu.latex-workshop",
         "JerryHong.autofilename",
         "jkjustjoshing.vscode-text-pastry",
         "jpoissonnier.vscode-styled-components",
