@@ -103,6 +103,10 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [vscode-viml-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.viml) - Syntax highlighting for .vim files.
 
+### Apple Script
+
+- [AppleScript](https://marketplace.visualstudio.com/items?itemName=idleberg.applescript) - Language syntax, snippets and build system for AppleScript and JavaScript for Automation.
+
 ## Version Control
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
@@ -114,7 +118,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 ### Fonts
 
-- [Operator Mono](https://www.typography.com/fonts/operator/styles/) - The $200 holy-grail of fonts for developers.
+- [Operator Mono](https://www.typography.com/fonts/operator/styles/) - The \$200 holy-grail of fonts for developers.
 - [Dank Mono](https://dank.sh/) - Dank Mono is the coding font you want.
 - [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts) - Snippets for a variety of icon fonts.
 
