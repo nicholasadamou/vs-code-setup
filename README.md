@@ -91,10 +91,6 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [python-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.python-snippets) - Python Snippets.
 
-### Powershell
-
-- [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Develop PowerShell scripts in Visual Studio Code!
-
 ### Bash
 
 - [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - An extension to use shellcheck in vscode.
