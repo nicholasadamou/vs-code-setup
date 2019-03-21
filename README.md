@@ -38,6 +38,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [Slack](https://marketplace.visualstudio.com/items?itemName=sozercan.slack) - Send messages and files to Slack from Visual Studio Code.
 - [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry) - Extend the power of multiple selections in VS Code. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.
 - [View in Browser](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser) - view a html file in system's default browser.
+- [Visual Studio IntelliCode - Preview](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI assisted developer productivity.
 
 ## Language Specific Packages
 
