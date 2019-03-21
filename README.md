@@ -96,6 +96,11 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - An extension to use shellcheck in vscode.
 
+### Fish
+
+- [fish-vscode](https://marketplace.visualstudio.com/items?itemName=skyapps.fish-vscode) - Fish syntax highlighting.
+- [fish-ide](https://marketplace.visualstudio.com/items?itemName=lunaryorn.fish-ide) - IDE features for fish shell scripts.
+
 ### VIML
 
 - [vscode-viml-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.viml) - Syntax highlighting for .vim files.
