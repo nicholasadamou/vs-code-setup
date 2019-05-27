@@ -1,6 +1,7 @@
 {
     "editor.fontFamily": "Operator Mono, Dank Mono, Consolas, 'Courier New', monospace",
-    "editor.fontSize": 12,
+    "editor.fontSize": 14,
+    "window.zoomLevel": -1,
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorCustomizations": {
         "peekView.border": "#E50A69AB",
