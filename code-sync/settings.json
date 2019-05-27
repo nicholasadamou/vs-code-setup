@@ -1,6 +1,7 @@
 {
     "editor.fontFamily": "Operator Mono, Dank Mono, Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
+    "editor.fontWeight": "400",
     "window.zoomLevel": -1,
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorCustomizations": {
@@ -25,7 +26,6 @@
     "editor.cursorWidth": 3,
     "editor.wordWrap": "on",
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.fontWeight": "400",
     "editor.cursorBlinking": "solid",
     "editor.colorDecorators": false,
     "editor.minimap.enabled": false,
