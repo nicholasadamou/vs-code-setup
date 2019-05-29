@@ -1,8 +1,6 @@
 {
-	"editor.fontFamily": "Operator Mono, Dank Mono, Consolas, 'Courier New', monospace",
-	"editor.fontSize": 14,
-	"editor.fontWeight": "400",
-	"window.zoomLevel": -1,
+	"window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+	"workbench.colorTheme": "Ayu Mirage",
 	"workbench.iconTheme": "vscode-icons",
 	"workbench.colorCustomizations": {
 		"peekView.border": "#E50A69AB",
@@ -11,17 +9,9 @@
 		"peekViewEditor.background": "#002b36",
 		"peekViewEditor.matchHighlightBackground": "#00212bAB"
 	},
-	"workbench.editor.tabCloseButton": "off",
-	"workbench.activityBar.visible": true,
-	"workbench.sideBar.location": "left",
-	"workbench.startupEditor": "none",
-	"workbench.editor.tabSizing": "shrink",
-	"workbench.editor.enablePreviewFromQuickOpen": false,
-	"window.restoreWindows": "none",
-	"git.enableSmartCommit": true,
-	"html.format.enable": true,
-	"html.format.preserveNewLines": true,
-	"files.trimTrailingWhitespace": false,
+	"editor.fontFamily": "Operator Mono, Dank Mono, Consolas, 'Courier New', monospace",
+	"editor.fontSize": 14,
+	"editor.fontWeight": "400",
 	"editor.cursorStyle": "line",
 	"editor.cursorWidth": 3,
 	"editor.wordWrap": "on",
@@ -31,9 +21,33 @@
 	"editor.minimap.enabled": false,
 	"editor.renderWhitespace": "none",
 	"editor.minimap.showSlider": "always",
-	"git.confirmSync": false,
-	"vsicons.dontShowNewVersionMessage": true,
 	"editor.snippetSuggestions": "top",
+	"editor.renderIndentGuides": false,
+	"editor.suggestSelection": "first",
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"editor.formatOnSave": false
+	},
+	"window.zoomLevel": -1,
+	"workbench.editor.tabCloseButton": "off",
+	"workbench.activityBar.visible": true,
+	"workbench.sideBar.location": "left",
+	"workbench.startupEditor": "none",
+	"workbench.editor.tabSizing": "shrink",
+	"workbench.editor.enablePreviewFromQuickOpen": false,
+	"window.restoreWindows": "none",
+	"html.format.enable": true,
+	"html.format.preserveNewLines": true,
+	"files.trimTrailingWhitespace": false,
+	"eslint.autoFixOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"files.autoSave": "onFocusChange",
+	"prettier.disableLanguages": [
+		"js"
+	],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
 	"explorer.confirmDragAndDrop": false,
 	"explorer.confirmDelete": false,
 	"extensions.ignoreRecommendations": false,
@@ -48,22 +62,9 @@
 	"gitlens.advanced.messages": {
 		"suppressShowKeyBindingsNotice": true
 	},
-	"window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
-	"editor.formatOnSave": true,
-	"[javascript]": {
-		"editor.formatOnSave": false
-	},
-	"eslint.autoFixOnSave": true,
-	"eslint.alwaysShowStatus": true,
-	"emmet.includeLanguages": {
-		"javascript": "javascriptreact"
-	},
-	"prettier.disableLanguages": [
-		"js"
-	],
-	"workbench.colorTheme": "Ayu Mirage",
 	"git.autofetch": true,
-	"editor.renderIndentGuides": false,
-	"editor.suggestSelection": "first",
+	"git.enableSmartCommit": true,
+	"git.confirmSync": false,
+	"vsicons.dontShowNewVersionMessage": true,
 	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
