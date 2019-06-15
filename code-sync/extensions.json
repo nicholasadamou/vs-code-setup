@@ -1,6 +1,7 @@
 {
 	"extensions": [
 		"aaron-bond.better-comments",
+		"bungcip.better-toml",
 		"christian-kohler.npm-intellisense",
 		"cmstead.jsrefactor",
 		"CoenraadS.bracket-pair-colorizer",
@@ -16,6 +17,7 @@
 		"esbenp.prettier-vscode",
 		"formulahendry.auto-close-tag",
 		"formulahendry.auto-rename-tag",
+		"felixrieseberg.vsc-travis-ci-status",
 		"GitHub.vscode-pull-request-github",
 		"golf1052.code-sync",
 		"HookyQR.beautify",
@@ -26,6 +28,7 @@
 		"jpoissonnier.vscode-styled-components",
 		"kumar-harsh.graphql-for-vscode",
 		"lunaryorn.fish-ide",
+		"lakkannawalikar.the-travis-client",
 		"mikestead.dotenv",
 		"mrmlnc.vscode-autoprefixer",
 		"mrmlnc.vscode-scss",
@@ -43,6 +46,7 @@
 		"redhat.vscode-yaml",
 		"robertohuertasm.vscode-icons",
 		"Rubymaniac.vscode-paste-and-indent",
+		"redhat.fabric8-analytics",
 		"shyykoserhiy.vscode-spotify",
 		"sidneys1.gitconfig",
 		"silverlakesoftware.searchdocsets-vscode",

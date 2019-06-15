@@ -60,6 +60,7 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor.
 - [jsrefactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor) - Automated refactoring tools to smooth your development workflow.
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
+- [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) - Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application.
 
 #### Frameworks
 
@@ -105,6 +106,10 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [vscode-viml-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.viml) - Syntax highlighting for .vim files.
 
+### TOML
+
+- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Better TOML Language support.
+
 ### Apple Script
 
 - [AppleScript](https://marketplace.visualstudio.com/items?itemName=idleberg.applescript) - Language syntax, snippets and build system for AppleScript and JavaScript for Automation.
@@ -116,6 +121,11 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 ### Docker
 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
+
+### Travis CI
+
+- [The Travis Client](https://marketplace.visualstudio.com/items?itemName=Lakkannawalikar.the-travis-client) - Extension to interact with travis build status.
+- [Travis CI Status](https://marketplace.visualstudio.com/items?itemName=felixrieseberg.vsc-travis-ci-status) - Check your project's Travis CI status from Visual Studio Code.
 
 ## Version Control
 
