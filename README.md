@@ -134,6 +134,10 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request Provider for GitHub.
 - [Gitconfig-Syntax](https://marketplace.visualstudio.com/items?itemName=sidneys1.gitconfig) - Adds syntax highlighting support for Git config files.
 
+### Firebase
+
+- [Firebase Explorer](https://marketplace.visualstudio.com/items?itemName=jsayol.firebase-explorer) - Visual Studio Code extension to explore and manage your Firebase projects.
+
 ## UI
 
 ### Fonts
