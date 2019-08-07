@@ -1,5 +1,6 @@
 {
 	"extensions": [
+		"orta.vscode-jest",
 		"aaron-bond.better-comments",
 		"bungcip.better-toml",
 		"christian-kohler.npm-intellisense",
