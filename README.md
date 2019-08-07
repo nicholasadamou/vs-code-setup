@@ -59,14 +59,12 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 - [dotenv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax.
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor.
 - [jsrefactor](https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor) - Automated refactoring tools to smooth your development workflow.
-- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) - Use Facebook's Jest With Pleasure.
 - [Dependency Analytics](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) - Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application.
 
 #### Frameworks
 
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native) - Code-hinting, debugging and integrated commands for React Native.
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) - Syntax highlighting for styled-components.
-- [ventur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VS Code.
 
 #### Linters
 
@@ -82,16 +80,6 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.
 - [GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode) - GraphQL syntax highlighting, linting, auto-complete, and more!
-
-### Python
-
-#### Essentials
-
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
-
-#### Snippets
-
-- [python-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.python-snippets) - Python Snippets.
 
 ### Bash
 
@@ -121,11 +109,6 @@ To setup Visual Studio Code to look like what is seen in the above image do the 
 ### Docker
 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Adds syntax highlighting, commands, hover tips, and linting for Dockerfile and docker-compose files.
-
-### Travis CI
-
-- [The Travis Client](https://marketplace.visualstudio.com/items?itemName=Lakkannawalikar.the-travis-client) - Extension to interact with travis build status.
-- [Travis CI Status](https://marketplace.visualstudio.com/items?itemName=felixrieseberg.vsc-travis-ci-status) - Check your project's Travis CI status from Visual Studio Code.
 
 ## Version Control
 
